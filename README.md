@@ -1,15 +1,15 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: 28th June 2021
+- Facilitator: @jschanfung
 
 ## Talk to Us!!
 
-If you have a question, or need assistance during class, **please create an issue and mention @TEACHER-HANDLE**.
+If you have a question, or need assistance during class, **please create an issue and mention @jschanfung**.
 
 ## Give Us Feedback
 
-Please take a moment to complete the class survey at: SURVEY-LINK
+Please take a moment to complete the class survey at: <>
 
 ## Scripts for Adding Files
 
